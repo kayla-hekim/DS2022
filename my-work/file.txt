@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Hello this is a comment
+#Let's echo some stuff out
+
+echo "Hey this is my logname: " $LOGNAME
+
